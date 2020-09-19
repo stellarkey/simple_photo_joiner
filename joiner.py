@@ -31,9 +31,9 @@ def horizontal_join(Dir: str):
         target.paste(img, (a, b))
         a += iter_x
     target.save("./result.jpg")    
-    print("--------------------------------------")
-    print("Showing results...")
-    target.show()
+    # print("--------------------------------------")
+    # print("Showing results...")
+    # target.show()
     print("--------------------------------------")
     print("Finished. \"result.jpg\" is save in current folder. Goodbye~~~")
     
