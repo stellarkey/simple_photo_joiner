@@ -35,11 +35,7 @@ def horizontal_join(Dir: str):
     # print("Showing results...")
     # target.show()
     print("--------------------------------------")
-    print("Finished. \"result.jpg\" is save in current folder. Goodbye~~~")
-    
-
-
-
+    b = input("Finished. \"result.jpg\" is save in current folder. Goodbye~~~")
 
 if __name__ == '__main__':
     main()
