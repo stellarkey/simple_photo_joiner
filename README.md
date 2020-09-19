@@ -14,8 +14,13 @@ a simple tool to join some photos
 
 There are 3 jpg in `images` now: `1.jpg`,  `2.jpg`,  `3.jpg` currently.
 
+![image-20200919214628596](README/image-20200919214628596.png)
+
 Let's try `joiner.exe`:
 
 ![image-20200919214244594](README/image-20200919214244594.png)
 
 Now you get a joined photo `result.jpg`. Enjoy.
+
+![image-20200919214706804](README/image-20200919214706804.png)
+
