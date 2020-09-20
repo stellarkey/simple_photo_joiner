@@ -5,7 +5,7 @@ a simple tool to join some photos
 
 - clear folder **`images`**
 - copy your own photos into folder **`images`**
-- better make sure that **each photo are the same size** cause this is a very dummy joiner...
+  - better make sure that **each photo are the same size** cause this is a very dummy joiner...
   - better make sure that **photos are arranged** well as you wish (You can just name them by numbers)
 - run `joiner.py` or **`joiner.exe`**（may need to click `Enter` key in the process a few times）
 - get **`result.jpg`** in the current folder, and enjoy :)
